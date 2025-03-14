@@ -2,7 +2,7 @@
 
 ## Notes
 - USA and PAL are considered complete and should not require updates
-- All Homebrew belongs in `meta_db_in`, yes even commercially discs
+- All Homebrew belongs in `meta_hb_in`, yes even commercial discs
 - All things that aren't homebrew and aren't retail belong in `meta_ex_in`. This includes things like prototypes, demo discs, propeller arena, etc...
 
 ## How to add metadata for a particular disc
