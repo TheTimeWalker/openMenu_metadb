@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+KEY+ARC+JUMP
+network=0
+genre=shooter
+description=Xeno Crisis is an arena shooter in which up to two players enter a ravaged research colony to confront an alkien menace and get out alive! Run and gun your way through thousands of adversaries as you search for the source of the deadly alien outbreak.
+padding0=0

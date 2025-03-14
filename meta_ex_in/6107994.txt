@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=action
+description=An early prototype featuring one level. with Japanese dialogue accompanied by English Subtitles. This demo differs in several ways from the final version: Sonic wears his original shoes, different logo, billboards and sounds, looser controls and physics, and an instrumental version of "Escape from the City".
+padding0=0

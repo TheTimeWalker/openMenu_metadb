@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=200
+accessories=0
+network=0
+genre=Action+Shooter+Survival+Adventure
+description=HALF-LIFE is a groundbreaking first-person shooter released in 1998 by Valve. Players control scientist Gordon Freeman as he fights to survice after a disastrous experiment unleashes alien creatures. Blending storytelling, action and puzzles seamlessly, it revolutionised the genre and became a landmark title in gaming history.
+padding0=0

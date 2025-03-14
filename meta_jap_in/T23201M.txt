@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=5
+accessories=VGA+JUMP+MIC+GUN+MOD
+network=1
+genre=Lightgun+Shooter
+description=Death Crimson 2 is a rail shooter for the Sega Dreamcast, released in 1999 as a sequel to the infamous original. Players blast their way through bizarre enemies and surreal environments with lightgun or controller support.
+padding0=0
