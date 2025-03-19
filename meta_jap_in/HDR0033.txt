@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=2
+accessories=VGA+KEY+MOD
+network=0
+genre=0
+description=A series of bizarre murders occur one after another after a cursed contract is made. Numerous mysteries and shocking truths are entangled behind the scenes. The mystery grows with each passing minute, and the fear, madness, and despair deepen... Chapter 1: "Contract"
+padding0=0
