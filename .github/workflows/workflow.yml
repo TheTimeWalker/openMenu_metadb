@@ -35,7 +35,7 @@ jobs:
           tag_name: ${{ steps.tag.outputs.release_tag }}
           files: |
             output/META.DAT
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         if: ${{ always() }}
         with:
           name: DAT
